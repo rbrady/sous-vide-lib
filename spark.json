@@ -1,0 +1,7 @@
+{
+  "name": "sous-vide-lib",
+  "author": "Ryan Brady <ryan@ryanbrady.org>, JDog Jenkins <no-reply@dev.null>",
+  "license": "Apache 2.0",
+  "version": "0.0.1",
+  "description": "A simple sous-vide control library"
+}
