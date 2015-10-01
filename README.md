@@ -1,2 +1,2 @@
-# sous-vide-lib
+# About
 Library for particle photon for sous vide control
